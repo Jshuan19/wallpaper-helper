@@ -1,0 +1,15 @@
+# 程序运行后生成
+壁纸/
+设置.json
+运行记录.txt
+__pycache__/
+*.pyc
+
+# 本地环境与个人材料（含本机绝对路径，不上传）
+.vscode/
+.workbuddy/
+学习库/
+软件安装汇总.md
+PROJECT_STATE.md
+Python变量命名规范.md
+hello.py
